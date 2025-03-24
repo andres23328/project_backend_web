@@ -1,0 +1,9 @@
+"nombre","apellido","peso","estatura","fecha_nacimiento","genero","nivel_actividad","porcentaje_masa_corporal","objetivo","masa_corporal","frecuencia_ejercicios","imc","id_usuarios","foto","imagen","image"
+"jorge","ar","180","180","2002-07-20","Masculino","Bajo","56.73","bajar peso",102.11999999999999,"nada","55.56",1,1,"C:\Users\ardil\proyecto\proyecto\backend\routes\imagene_mongo\1731075152917-871173038.jpeg",
+"antonio","perez","170","160","2000-04-30","Masculino","Bajo","54.54","subir",92.71,"nada","66.41",1,1,"672e20c2f3f27e35f5030df7",
+"angie","de los santos","175","178","2003-10-02","Masculino","Bajo","56.89","musculos",99.551,"nada","55.23",1,1,"672e23c0105dcad279770ece","C:\Users\ardil\proyecto\proyecto\backend\routes\imagene_mongo\1731077055199-527470421.jpeg"
+"alejandro","de los santos","175","178","2003-10-02","Masculino","Bajo","56.89","musculos",99.551,"nada","55.23",1,1,"672e2415fd75fa0152dfe9ed","C:\Users\ardil\proyecto\proyecto\backend\routes\imagene_mongo\1731077139578-334321457.jpeg"
+"andres","ardila","76","177","2002-07-20","Masculino","Moderado","77.62","musculos",58.991,"poco ejercicio","24.26",1,1,"672e428e7a40cf23bb4d8d2e","C:\Users\ardil\proyecto\proyecto\backend\routes\imagene_mongo\1731084941941-174613560.jpg"
+"andre","ardila","77","177","2002-07-20","Masculino","Bajo","77.14","bajar",59.397999999999996,"nada","24.58",1,0,,
+"Pedro","alomia","90","170","1990-03-10","Masculino","Bajo","69.80","bajar",62.81999999999999,"nada","31.14",1,0,,
+"Andres","Ardila","100","175","2002-07-20","Masculino","Bajo","68.22","bajar",68.225,"nada","32.65",1,0,,

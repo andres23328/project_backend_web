@@ -1,0 +1,48 @@
+"nombre","apellido","peso","estatura","fecha_nacimiento","genero","nivel_actividad","porcentaje_masa_corporal","objetivo","masa_corporal","frecuencia_ejercicios","imc","id_usuarios"
+"andres","ardila","76.00","179.00","2002-07-20","Masculino","Bajo","78.32","tener músculos","59.52","nada","23.72",1
+"andres","Ardila","75.00","178.00","2002-07-20","Masculino","Bajo","78.47","tener músculo","58.85","poco ejercicio","23.67",1
+"andres","Ardila","80.00","180.00","2002-07-20","Masculino","Moderado","76.78","músculo","61.42","nada","24.69",1
+"andres","ardila","83.00","178.00","2002-07-20","Masculino","Alto","74.83","músculo","62.11","casi siempre","26.20",1
+"angie","santos","70.00","160.00","2004-09-17","Masculino","Bajo","74.30","subir","52.01","nada","27.34",3
+"angie","Santos","70.00","163.00","2004-09-17","Femenino","Bajo","66.34","glúteos","46.44","nada","26.35",3
+"juan","perez","90.00","176.00","2000-10-19","Masculino","Bajo","71.58","bajar de peso","64.42","nada","29.05",2
+"camilo","guerrero","60.00","170.00","2003-08-25","Masculino","Bajo","84.35","bajar peso","50.61","nada","20.76",2
+"camilo","guerrero","100.00","175.00","2003-08-25","Masculino","Bajo","68.22","bajar peso","68.23","nada","32.65",2
+"camilo","guerrero","130.00","176.00","2003-08-25","Masculino","Bajo","62.08","bajar peso","80.70","nada","41.97",2
+"camilo","guerrero","140.00","176.00","2003-08-25","Masculino","Bajo","60.55","bajar peso","84.77","nada","45.20",2
+"camilo","guerrero","120.00","176.00","2003-08-25","Masculino","Bajo","63.86","bajar peso","76.63","nada","38.74",2
+"camilo","guerrero","110.00","177.00","2003-08-25","Masculino","Bajo","66.21","subir","72.83","nada","35.11",2
+"camilo","guerrero","90.00","176.00","2003-08-25","Masculino","Bajo","71.58","bajar","64.42","nada","29.05",2
+"angie","santos","70.00","168.00","2004-09-17","Femenino","Moderado","69.72","glúteos","48.80","poco ejercicio","24.80",3
+"andres","Ardila","77.00","179.00","2002-07-20","Masculino","Bajo","77.83","tener músculos","59.93","nada","24.03",1
+"andres","Ardila","77.00","179.00","2002-07-20","Masculino","Bajo","77.83","tener músculos","59.93","nada","24.03",1
+"andres","Ardila","78.00","177.00","2002-07-20","Masculino","Bajo","76.67","músculos","59.80","nada","24.90",1
+"andres","Ardila","78.00","177.00","2002-07-20","Masculino","Bajo","76.67","músculos","59.80","nada","24.90",1
+"andres","Ardila","77.00","177.00","2002-07-20","Masculino","Bajo","77.14","músculo","59.40","nada","24.58",1
+"andres","ardila","76.00","176.00","2002-02-20","Masculino","Bajo","77.27","tener músculos","58.72","nada","24.54",1
+"andres","ardila","100.00","176.00","2002-07-20","Masculino","Bajo","68.49","bajar peso","68.49","nada","32.28",1
+"andres","Ardila","76.00","177.00","2004-09-17","Masculino","Moderado","77.62","tener músculos","58.99","poco ejercicio","24.26",1
+"andres","Ardila","76.00","177.00","2004-09-17","Masculino","Moderado","77.62","tener músculos","58.99","poco ejercicio","24.26",1
+"andres","ardila","69.00","180.00","2024-10-17","Masculino","Bajo","82.53","Subir de peso","56.94","poco ejercicio","21.30",1
+"andres","ardila","120.00","180.00","2003-09-20","Masculino","Bajo","64.75","bajar peso","77.70","nada","37.04",1
+"angie","santos","67.00","158.00","2004-09-17","Femenino","Bajo","64.65","glúteos","43.32","nada","26.84",3
+"angie","santos","53.00","153.00","2004-09-17","Femenino","Bajo","70.61","aumentar masa","37.43","nada","22.64",3
+"angie","santos","89.00","163.00","2004-09-17","Femenino","Bajo","57.56","subir","51.23","nada","33.50",3
+"Alejandro","Suarez","78.00","178.00","2004-12-17","Masculino","Alto","77.02","Construir musculo","60.07","casi siempre","24.62",5
+"andres","Ara","86.00","176.00","2002-07-20","Masculino","Bajo","73.02","bajar","62.79","nada","27.76",1
+"andrés","ardil","83.00","180.00","2002-07-20","Masculino","Bajo","75.47","bajar","62.64","nada","25.62",1
+"ana","ardil","90.00","178.00","2002-07-20","Femenino","Bajo","65.08","bajar","58.57","nada","28.41",1
+"anas","ardil","90.00","178.00","2002-07-20","Femenino","Bajo","65.08","bajar","58.57","nada","28.41",1
+"miguel","ard","130.00","190.00","2002-07-20","Masculino","Bajo","64.95","bajar","84.44","nada","36.01",1
+"miguel","ard","130.00","190.00","2002-07-20","Masculino","Bajo","64.95","bajar","84.44","nada","36.01",1
+"jorge","ar","180.00","180.00","2002-07-20","Masculino","Bajo","56.73","bajar peso","102.12","nada","55.56",1
+"antonio","perez","170.00","160.00","2000-04-30","Masculino","Bajo","54.54","subir","92.71","nada","66.41",1
+"antonio","perez","170.00","160.00","2000-04-30","Masculino","Bajo","54.54","subir","92.71","nada","66.41",1
+"antonio","perez","170.00","160.00","2000-04-30","Masculino","Bajo","54.54","subir","92.71","nada","66.41",1
+"antonio","perez","170.00","160.00","2000-04-30","Masculino","Bajo","54.54","subir","92.71","nada","66.41",1
+"alejandro","de los santos","175.00","178.00","2003-10-02","Masculino","Bajo","56.89","musculos","99.55","nada","55.23",1
+"alejandro","de los santos","175.00","178.00","2003-10-02","Masculino","Bajo","56.89","musculos","99.55","nada","55.23",1
+"andres","ardila","76.00","177.00","2002-07-20","Masculino","Moderado","77.62","musculos","58.99","poco ejercicio","24.26",1
+"andre","ardila","77.00","177.00","2002-07-20","Masculino","Bajo","77.14","bajar","59.40","nada","24.58",1
+"Pedro","alomia","90.00","170.00","1990-03-10","Masculino","Bajo","69.80","bajar","62.82","nada","31.14",6
+"Andres","Ardila","100.00","175.00","2002-07-20","Masculino","Bajo","68.22","bajar","68.23","nada","32.65",1
